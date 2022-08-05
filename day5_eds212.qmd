@@ -4,15 +4,4 @@ format: html
 editor: visual
 ---
 
-```{r}
-1 + 1
-```
-
-You can add options to executable codke this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+### Ahh push it
