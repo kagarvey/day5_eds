@@ -1,0 +1,28 @@
+---
+title: "meagans_logicals"
+format: html
+editor: visual
+---
+
+## A few logical expressions
+
+ur doin gr8
+
+```{r}
+5 == 1 
+
+"cat" == "dog"
+
+"cat" == "cat"
+
+meds <- c(1, 2, 3, 4, 5)
+meds == 3
+meds == 1 | meds > 3
+
+teddy <- 5 
+banjo <- 7
+tallie <- 4
+
+teddy <= banjo
+
+```
